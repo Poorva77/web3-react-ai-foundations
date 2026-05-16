@@ -1,40 +1,72 @@
 # Web3 + React + AI Foundations
 
-This repository contains Week 1 learning notes and practical foundations related to:
+This repository contains learning notes, concepts, and beginner-level practical work related to Blockchain, Ethereum, React.js, and Artificial Intelligence.
 
-- Blockchain Fundamentals
-- Ethereum Basics
-- Smart Contracts
-- React.js Basics
-- AI Fundamentals
+---
+
+## Repository Structure
+
+| Folder | Description |
+|---|---|
+| [blockchain-fundamentals](./blockchain-fundamentals) | Core blockchain concepts and architecture |
+| [ethereum-basics](./ethereum-basics) | Ethereum ecosystem, wallets, gas, and smart contracts |
+| [ai-fundamentals](./ai-fundamentals) | Introduction to AI and real-world applications |
+| [screenshots](./screenshots) | Deployment and project screenshots |
+
+---
 
 ## Topics Covered
 
-### Blockchain
+### Blockchain Fundamentals
 - Decentralization
-- Distributed Ledger
+- Distributed Ledger Technology
+- Blocks and Hashing
 - Consensus Mechanisms
-- Transactions & Blocks
-- Hashing
+- Blockchain Applications
 
-### Ethereum
-- Smart Contracts
+### Ethereum Basics
+- Ethereum Network
 - Ether (ETH)
+- Smart Contracts
 - Gas Fees
-- Wallets
 - Ethereum Virtual Machine (EVM)
+- Wallets and Keys
 
-### React.js
+### React.js Basics
 - Components
-- Props
-- State
-- JSX Basics
+- Props and State
+- JSX
+- Basic Project Structure
 
 ### AI Fundamentals
-- Introduction to AI
+- Introduction to Artificial Intelligence
 - Types of AI
 - Machine Learning Basics
-- Real-world Applications
+- Industry Use Cases
+
+---
+
+## Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| Solidity | Smart Contract Development |
+| Remix IDE | Contract Compilation & Deployment |
+| React.js | Frontend Development |
+| Git & GitHub | Version Control |
+| MetaMask | Blockchain Wallet |
+
+---
+
+## Learning Outcomes
+
+- Understood the working of blockchain and Ethereum
+- Explored smart contract concepts and deployment workflow
+- Built foundational React.js applications
+- Studied AI fundamentals and practical applications
+
+---
 
 ## Author
+
 Poorva Jaiswal
